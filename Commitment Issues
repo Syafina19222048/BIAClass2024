@@ -19,3 +19,13 @@ result3 <- matrix1 * matrix2
 
 # Divide the matrices
 result4 <- matrix1 / matrix2
+
+# print results
+print("The result of Addition is:")
+print(result1)
+print("The result of Subtraction is:")
+print(result2)
+print("The result of Multiplication is:")
+print(result3)
+print("The result of Division is:")
+print(result4)
